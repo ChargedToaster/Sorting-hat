@@ -40,10 +40,10 @@ else:
 
 
 print("Q3) Which kind of instrument most pleases your ear?")
-print("  1) The Good")
-print("  2) The Great")
-print("  3) The Wise")
-print("  4) The Bold")
+print("  1) The violin")
+print("  2) The trumpet")
+print("  3) The piano")
+print("  4) The drum")
 q3 = int(input("Enter your answer 1-4: "))
 
 if q3 == 1:
